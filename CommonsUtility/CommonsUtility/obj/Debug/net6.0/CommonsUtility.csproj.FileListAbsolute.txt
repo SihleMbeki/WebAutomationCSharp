@@ -1,0 +1,12 @@
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\bin\Debug\net6.0\CommonsUtility.deps.json
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\bin\Debug\net6.0\CommonsUtility.dll
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\bin\Debug\net6.0\CommonsUtility.pdb
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.csproj.AssemblyReference.cache
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.AssemblyInfoInputs.cache
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.AssemblyInfo.cs
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.csproj.CoreCompileInputs.cache
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.dll
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\refint\CommonsUtility.dll
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.pdb
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\ref\CommonsUtility.dll
