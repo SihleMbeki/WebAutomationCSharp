@@ -16,3 +16,6 @@ C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleAp
 C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\CommonsUtility.dll
 C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\CommonsUtility.pdb
 C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\NLog.dll
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
