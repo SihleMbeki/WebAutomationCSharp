@@ -3,6 +3,7 @@
 using CommonsUtility;
 using NLog.Web;
 using System.Reflection.Metadata;
+using WebDriverUtility;
 
 internal class Program
 {
@@ -24,5 +25,9 @@ internal class Program
         {
             NLog.LogManager.Shutdown();
         }
+
+        WebDriverUtility.WebDriverUtility.createDriver();
+        WebDriverUtility.WebDriverUtility.LoadPage("https://www.google.com/");
+
 }
 }

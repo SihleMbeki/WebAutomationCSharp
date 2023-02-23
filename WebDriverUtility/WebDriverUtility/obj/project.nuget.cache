@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "jXsrcLp7ItwDOhHvFTb+EecBaB12AYNkP1NFlUQ1d93TIsYHf3sZusELF+Rq9yORetDvd13pAhFnwr+IuTMC1w==",
+  "dgSpecHash": "dUM9Em0NNazELzKC/r3/PeoaxHGOtfMBil2ZN1f0Rlf/zKqEJE+A6AQ2MjxBf7scOAjqLaBLZnucqLc9KzvCpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Masakhane\\source\\repos\\WebAutomationFactoryCSharp\\WebDriverUtility\\WebDriverUtility\\WebDriverUtility.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Masakhane\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\selenium.webdriver\\4.8.1\\selenium.webdriver.4.8.1.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\sharpziplib\\1.4.1\\sharpziplib.1.4.1.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\webdrivermanager\\2.16.2\\webdrivermanager.2.16.2.nupkg.sha512"
+  ],
   "logs": []
 }

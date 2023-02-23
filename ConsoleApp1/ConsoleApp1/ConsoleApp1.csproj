@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\CommonsUtility\CommonsUtility\CommonsUtility.csproj" />
+    <ProjectReference Include="..\..\WebDriverUtility\WebDriverUtility\WebDriverUtility.csproj" />
   </ItemGroup>
 
 </Project>

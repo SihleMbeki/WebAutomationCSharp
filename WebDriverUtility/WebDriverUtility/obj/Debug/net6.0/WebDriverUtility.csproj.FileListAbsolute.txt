@@ -1,0 +1,15 @@
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\obj\Debug\net6.0\WebDriverUtility.csproj.AssemblyReference.cache
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\obj\Debug\net6.0\WebDriverUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\obj\Debug\net6.0\WebDriverUtility.AssemblyInfoInputs.cache
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\obj\Debug\net6.0\WebDriverUtility.AssemblyInfo.cs
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\obj\Debug\net6.0\WebDriverUtility.csproj.CoreCompileInputs.cache
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\bin\Debug\net6.0\WebDriverUtility.deps.json
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\bin\Debug\net6.0\WebDriverUtility.dll
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\bin\Debug\net6.0\WebDriverUtility.pdb
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\obj\Debug\net6.0\WebDriverUtility.dll
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\obj\Debug\net6.0\refint\WebDriverUtility.dll
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\obj\Debug\net6.0\WebDriverUtility.pdb
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\WebDriverUtility\WebDriverUtility\obj\Debug\net6.0\ref\WebDriverUtility.dll
