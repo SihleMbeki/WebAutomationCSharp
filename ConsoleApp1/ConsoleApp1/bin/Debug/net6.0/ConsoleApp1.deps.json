@@ -28,6 +28,17 @@
           }
         }
       },
+      "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.8.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll": {
+            "assemblyVersion": "3.11.0.0",
+            "fileVersion": "3.11.0.0"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "6.0.0"
@@ -108,6 +119,17 @@
           }
         }
       },
+      "Selenium.Support/4.8.1": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.8.1"
+        },
+        "runtime": {
+          "lib/net6.0/WebDriver.Support.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
       "Selenium.WebDriver/4.8.1": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
@@ -166,6 +188,8 @@
       },
       "WebDriverUtility/1.0.0": {
         "dependencies": {
+          "DotNetSeleniumExtras.WaitHelpers": "3.11.0",
+          "Selenium.Support": "4.8.1",
           "Selenium.WebDriver": "4.8.1",
           "WebDriverManager": "2.16.2"
         },
@@ -187,6 +211,13 @@
       "sha512": "sha512-5MPI4bbixlwxb0W/smOMeIR+QlxMy5/5jD+WnIAw4pBC+7AhLPe5bS3cLgQMJyvd6q0A48sG+uYOt/ep406GLA==",
       "path": "anglesharp/0.17.1",
       "hashPath": "anglesharp.0.17.1.nupkg.sha512"
+    },
+    "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xc6jVVl5ymgk3ZNWnC/KHxkEup1QpnwYbrwF+NQoCOGERsD8YMlLwmsX4lGhLXCLo/YQTRTIwlKCN9E/doGUNg==",
+      "path": "dotnetseleniumextras.waithelpers/3.11.0",
+      "hashPath": "dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
       "type": "package",
@@ -278,6 +309,13 @@
       "sha512": "sha512-0Qa6V7LXgbWNxYdZDLcQz/TjGrSfx32XThxAL+xoAtjplC2uCIhy27WiMIjznuMAJR3zjElIiYzMmPSsQ4LZSQ==",
       "path": "nlog.web.aspnetcore/5.2.2",
       "hashPath": "nlog.web.aspnetcore.5.2.2.nupkg.sha512"
+    },
+    "Selenium.Support/4.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S7ZkZvCbg7UW8botSWJUBLBcPqumBH+cUJtwoTNWCw3Bhj/SBrxMG0q+CRBkrF2HW1btJXkOqzsiWAPAV0EVfA==",
+      "path": "selenium.support/4.8.1",
+      "hashPath": "selenium.support.4.8.1.nupkg.sha512"
     },
     "Selenium.WebDriver/4.8.1": {
       "type": "package",

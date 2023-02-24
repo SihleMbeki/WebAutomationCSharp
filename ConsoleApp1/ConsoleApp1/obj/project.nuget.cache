@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LDBgPLLiIwVwIHi3wxvVnaROEvOqQJReaJNe44sqWGt+eqW8uC9mEAtBsLPCGykZ//6+o4ezOoUXkK8vHnxOAQ==",
+  "dgSpecHash": "18L5VFrVK4svNteGjPoutcDY4Yh/rZnhKczPCvuhXOLceBJCX0fRCn2XhEJSffe+gaKx15DHQCDJ29iwBodqag==",
   "success": true,
   "projectFilePath": "C:\\Users\\Masakhane\\source\\repos\\WebAutomationFactoryCSharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Masakhane\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\Masakhane\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Masakhane\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\Masakhane\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
@@ -18,6 +19,7 @@
     "C:\\Users\\Masakhane\\.nuget\\packages\\nlog\\5.1.2\\nlog.5.1.2.nupkg.sha512",
     "C:\\Users\\Masakhane\\.nuget\\packages\\nlog.extensions.logging\\5.2.2\\nlog.extensions.logging.5.2.2.nupkg.sha512",
     "C:\\Users\\Masakhane\\.nuget\\packages\\nlog.web.aspnetcore\\5.2.2\\nlog.web.aspnetcore.5.2.2.nupkg.sha512",
+    "C:\\Users\\Masakhane\\.nuget\\packages\\selenium.support\\4.8.1\\selenium.support.4.8.1.nupkg.sha512",
     "C:\\Users\\Masakhane\\.nuget\\packages\\selenium.webdriver\\4.8.1\\selenium.webdriver.4.8.1.nupkg.sha512",
     "C:\\Users\\Masakhane\\.nuget\\packages\\sharpziplib\\1.4.1\\sharpziplib.1.4.1.nupkg.sha512",
     "C:\\Users\\Masakhane\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",

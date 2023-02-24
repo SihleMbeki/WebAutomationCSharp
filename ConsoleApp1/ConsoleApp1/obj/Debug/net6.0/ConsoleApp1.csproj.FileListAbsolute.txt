@@ -29,3 +29,5 @@ C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleAp
 C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\WebDriverManager.dll
 C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\WebDriverUtility.dll
 C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\WebDriverUtility.pdb
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\WebDriver.Support.dll

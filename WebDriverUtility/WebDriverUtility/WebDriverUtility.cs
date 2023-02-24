@@ -13,6 +13,8 @@ namespace WebDriverUtility
         private static IWebDriver? driver { get; set; }
         private static WebDriverWait? wait { get; set; }
 
+        public static IWebDriver UIWebDriver { get { return driver; } }
+
         public static void createDriver()
         {
             if (driver == null)
@@ -31,6 +33,18 @@ namespace WebDriverUtility
             {
             if (driver != null)
                 driver.Navigate().GoToUrl(url);
+            }
+            catch (System.Exception)
+            {
+
+            }
+        }
+
+        public static void Tab(IWebElement element)
+        {
+            try
+            {
+                element.SendKeys(Keys.Tab);
             }
             catch (System.Exception)
             {

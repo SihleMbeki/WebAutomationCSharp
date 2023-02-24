@@ -19,6 +19,18 @@
           }
         }
       },
+      "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "3.10.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -238,6 +250,18 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Selenium.Support/4.8.1": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "4.8.1"
+        },
+        "compile": {
+          "lib/net6.0/WebDriver.Support.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/WebDriver.Support.dll": {}
+        }
+      },
       "Selenium.WebDriver/4.8.1": {
         "type": "package",
         "dependencies": {
@@ -409,6 +433,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "DotNetSeleniumExtras.WaitHelpers": "3.11.0",
+          "Selenium.Support": "4.8.1",
           "Selenium.WebDriver": "4.8.1",
           "WebDriverManager": "2.16.2"
         },
@@ -438,6 +464,21 @@
         "lib/netstandard2.0/AngleSharp.dll",
         "lib/netstandard2.0/AngleSharp.xml",
         "logo.png"
+      ]
+    },
+    "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+      "sha512": "xc6jVVl5ymgk3ZNWnC/KHxkEup1QpnwYbrwF+NQoCOGERsD8YMlLwmsX4lGhLXCLo/YQTRTIwlKCN9E/doGUNg==",
+      "type": "package",
+      "path": "dotnetseleniumextras.waithelpers/3.11.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+        "dotnetseleniumextras.waithelpers.nuspec",
+        "lib/net35/SeleniumExtras.WaitHelpers.dll",
+        "lib/net40/SeleniumExtras.WaitHelpers.dll",
+        "lib/net45/SeleniumExtras.WaitHelpers.dll",
+        "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll"
       ]
     },
     "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
@@ -786,6 +827,26 @@
         "lib/netstandard2.0/NLog.Web.AspNetCore.xml",
         "nlog.web.aspnetcore.5.2.2.nupkg.sha512",
         "nlog.web.aspnetcore.nuspec"
+      ]
+    },
+    "Selenium.Support/4.8.1": {
+      "sha512": "S7ZkZvCbg7UW8botSWJUBLBcPqumBH+cUJtwoTNWCw3Bhj/SBrxMG0q+CRBkrF2HW1btJXkOqzsiWAPAV0EVfA==",
+      "type": "package",
+      "path": "selenium.support/4.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/icon.png",
+        "lib/net45/WebDriver.Support.dll",
+        "lib/net46/WebDriver.Support.dll",
+        "lib/net47/WebDriver.Support.dll",
+        "lib/net48/WebDriver.Support.dll",
+        "lib/net5.0/WebDriver.Support.dll",
+        "lib/net6.0/WebDriver.Support.dll",
+        "lib/netstandard2.0/WebDriver.Support.dll",
+        "lib/netstandard2.1/WebDriver.Support.dll",
+        "selenium.support.4.8.1.nupkg.sha512",
+        "selenium.support.nuspec"
       ]
     },
     "Selenium.WebDriver/4.8.1": {
