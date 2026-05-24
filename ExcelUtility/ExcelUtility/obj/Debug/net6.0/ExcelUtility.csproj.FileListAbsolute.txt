@@ -1,0 +1,12 @@
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\bin\Debug\net6.0\ExcelUtility.deps.json
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\bin\Debug\net6.0\ExcelUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\bin\Debug\net6.0\ExcelUtility.pdb
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\obj\Debug\net6.0\ExcelUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\obj\Debug\net6.0\ExcelUtility.AssemblyInfoInputs.cache
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\obj\Debug\net6.0\ExcelUtility.AssemblyInfo.cs
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\obj\Debug\net6.0\ExcelUtility.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\obj\Debug\net6.0\ExcelUtility.sourcelink.json
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\obj\Debug\net6.0\ExcelUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\obj\Debug\net6.0\refint\ExcelUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\obj\Debug\net6.0\ExcelUtility.pdb
+C:\xampp\htdocs\WebAutomationCSharp\ExcelUtility\ExcelUtility\obj\Debug\net6.0\ref\ExcelUtility.dll

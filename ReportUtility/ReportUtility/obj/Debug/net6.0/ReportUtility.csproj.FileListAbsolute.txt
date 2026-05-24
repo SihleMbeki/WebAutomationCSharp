@@ -1,0 +1,12 @@
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\bin\Debug\net6.0\ReportUtility.deps.json
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\bin\Debug\net6.0\ReportUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\bin\Debug\net6.0\ReportUtility.pdb
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\obj\Debug\net6.0\ReportUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\obj\Debug\net6.0\ReportUtility.AssemblyInfoInputs.cache
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\obj\Debug\net6.0\ReportUtility.AssemblyInfo.cs
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\obj\Debug\net6.0\ReportUtility.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\obj\Debug\net6.0\ReportUtility.sourcelink.json
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\obj\Debug\net6.0\ReportUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\obj\Debug\net6.0\refint\ReportUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\obj\Debug\net6.0\ReportUtility.pdb
+C:\xampp\htdocs\WebAutomationCSharp\ReportUtility\ReportUtility\obj\Debug\net6.0\ref\ReportUtility.dll

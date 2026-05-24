@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AADDCF63-4658-4656-92F3-F890515EF41D}|ScrapingUI\\ScrapingUI.csproj|c:\\xampp\\htdocs\\webautomationcsharp\\scrapingui\\scrapingui\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADDCF63-4658-4656-92F3-F890515EF41D}|ScrapingUI\\ScrapingUI.csproj|solutionrelative:scrapingui\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADDCF63-4658-4656-92F3-F890515EF41D}|ScrapingUI\\ScrapingUI.csproj|c:\\xampp\\htdocs\\webautomationcsharp\\scrapingui\\scrapingui\\pageobjects\\flexobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADDCF63-4658-4656-92F3-F890515EF41D}|ScrapingUI\\ScrapingUI.csproj|solutionrelative:scrapingui\\pageobjects\\flexobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADDCF63-4658-4656-92F3-F890515EF41D}|ScrapingUI\\ScrapingUI.csproj|c:\\xampp\\htdocs\\webautomationcsharp\\scrapingui\\scrapingui\\logfile2023-02-24.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AADDCF63-4658-4656-92F3-F890515EF41D}|ScrapingUI\\ScrapingUI.csproj|solutionrelative:scrapingui\\logfile2023-02-24.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\ScrapingUI\\bin\\Debug\\net6.0\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScrapingUI\\bin\\Debug\\net6.0\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADDCF63-4658-4656-92F3-F890515EF41D}|ScrapingUI\\ScrapingUI.csproj|c:\\xampp\\htdocs\\webautomationcsharp\\scrapingui\\scrapingui\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADDCF63-4658-4656-92F3-F890515EF41D}|ScrapingUI\\ScrapingUI.csproj|solutionrelative:scrapingui\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlexObject.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\ScrapingUI\\PageObjects\\FlexObject.cs",
+              "RelativeDocumentMoniker": "ScrapingUI\\PageObjects\\FlexObject.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\ScrapingUI\\PageObjects\\FlexObject.cs",
+              "RelativeToolTip": "ScrapingUI\\PageObjects\\FlexObject.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwBcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T18:15:48.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "logfile2023-02-24.log",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\ScrapingUI\\logfile2023-02-24.log",
+              "RelativeDocumentMoniker": "ScrapingUI\\logfile2023-02-24.log",
+              "ToolTip": "C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\ScrapingUI\\logfile2023-02-24.log",
+              "RelativeToolTip": "ScrapingUI\\logfile2023-02-24.log",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T18:15:50.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\ScrapingUI\\bin\\Debug\\net6.0\\nlog.config",
+              "RelativeDocumentMoniker": "ScrapingUI\\bin\\Debug\\net6.0\\nlog.config",
+              "ToolTip": "C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\ScrapingUI\\bin\\Debug\\net6.0\\nlog.config",
+              "RelativeToolTip": "ScrapingUI\\bin\\Debug\\net6.0\\nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-21T18:15:50.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\ScrapingUI\\Usings.cs",
+              "RelativeDocumentMoniker": "ScrapingUI\\Usings.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\ScrapingUI\\Usings.cs",
+              "RelativeToolTip": "ScrapingUI\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T18:15:50.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\ScrapingUI\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ScrapingUI\\UnitTest1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\WebAutomationCSharp\\ScrapingUI\\ScrapingUI\\UnitTest1.cs",
+              "RelativeToolTip": "ScrapingUI\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T18:15:50.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

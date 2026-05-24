@@ -10,3 +10,15 @@ C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\Common
 C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\refint\CommonsUtility.dll
 C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.pdb
 C:\Users\Masakhane\source\repos\WebAutomationFactoryCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\ref\CommonsUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\bin\Debug\net6.0\CommonsUtility.deps.json
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\bin\Debug\net6.0\CommonsUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\bin\Debug\net6.0\CommonsUtility.pdb
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.AssemblyInfoInputs.cache
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.AssemblyInfo.cs
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.sourcelink.json
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\refint\CommonsUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\CommonsUtility.pdb
+C:\xampp\htdocs\WebAutomationCSharp\CommonsUtility\CommonsUtility\obj\Debug\net6.0\ref\CommonsUtility.dll

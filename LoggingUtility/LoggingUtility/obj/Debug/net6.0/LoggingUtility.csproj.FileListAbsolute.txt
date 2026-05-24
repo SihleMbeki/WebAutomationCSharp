@@ -1,0 +1,12 @@
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\bin\Debug\net6.0\LoggingUtility.deps.json
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\bin\Debug\net6.0\LoggingUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\bin\Debug\net6.0\LoggingUtility.pdb
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\obj\Debug\net6.0\LoggingUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\obj\Debug\net6.0\LoggingUtility.AssemblyInfoInputs.cache
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\obj\Debug\net6.0\LoggingUtility.AssemblyInfo.cs
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\obj\Debug\net6.0\LoggingUtility.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\obj\Debug\net6.0\LoggingUtility.sourcelink.json
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\obj\Debug\net6.0\LoggingUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\obj\Debug\net6.0\refint\LoggingUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\obj\Debug\net6.0\LoggingUtility.pdb
+C:\xampp\htdocs\WebAutomationCSharp\LoggingUtility\LoggingUtility\obj\Debug\net6.0\ref\LoggingUtility.dll

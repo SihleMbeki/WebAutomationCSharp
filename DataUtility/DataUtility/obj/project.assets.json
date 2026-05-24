@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net6.0": {}
   },
@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Masakhane\\.nuget\\packages\\": {},
+    "C:\\Users\\Sihle\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Masakhane\\source\\repos\\WebAutomationFactoryCSharp\\DataUtility\\DataUtility\\DataUtility.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\WebAutomationCSharp\\DataUtility\\DataUtility\\DataUtility.csproj",
       "projectName": "DataUtility",
-      "projectPath": "C:\\Users\\Masakhane\\source\\repos\\WebAutomationFactoryCSharp\\DataUtility\\DataUtility\\DataUtility.csproj",
-      "packagesPath": "C:\\Users\\Masakhane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Masakhane\\source\\repos\\WebAutomationFactoryCSharp\\DataUtility\\DataUtility\\obj\\",
+      "projectPath": "C:\\xampp\\htdocs\\WebAutomationCSharp\\DataUtility\\DataUtility\\DataUtility.csproj",
+      "packagesPath": "C:\\Users\\Sihle\\.nuget\\packages\\",
+      "outputPath": "C:\\xampp\\htdocs\\WebAutomationCSharp\\DataUtility\\DataUtility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Masakhane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sihle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -37,6 +37,7 @@
       },
       "frameworks": {
         "net6.0": {
+          "framework": "net6.0",
           "targetAlias": "net6.0",
           "projectReferences": {}
         }
@@ -45,10 +46,17 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net6.0": {
+        "framework": "net6.0",
         "targetAlias": "net6.0",
         "imports": [
           "net461",
@@ -66,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

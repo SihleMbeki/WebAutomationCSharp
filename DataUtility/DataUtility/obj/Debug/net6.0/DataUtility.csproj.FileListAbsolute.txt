@@ -1,0 +1,12 @@
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\bin\Debug\net6.0\DataUtility.deps.json
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\bin\Debug\net6.0\DataUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\bin\Debug\net6.0\DataUtility.pdb
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\obj\Debug\net6.0\DataUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\obj\Debug\net6.0\DataUtility.AssemblyInfoInputs.cache
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\obj\Debug\net6.0\DataUtility.AssemblyInfo.cs
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\obj\Debug\net6.0\DataUtility.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\obj\Debug\net6.0\DataUtility.sourcelink.json
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\obj\Debug\net6.0\DataUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\obj\Debug\net6.0\refint\DataUtility.dll
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\obj\Debug\net6.0\DataUtility.pdb
+C:\xampp\htdocs\WebAutomationCSharp\DataUtility\DataUtility\obj\Debug\net6.0\ref\DataUtility.dll
